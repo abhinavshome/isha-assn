@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #08084A;
+  color: #fff;
+  font-family: 'Fedra Sans Std';
+}
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+@font-face {
+  font-family: "Fedra Sans Condensed Std";
+  src: url("/Users/abhinav/Library/Fonts/Fedra Sans Condensed Std Book.otf") format("opentype");
+}
+
+@font-face {
+  font-family: GraublauWeb;
+  font-weight: bold;
+  src: url("path/GraublauWebBold.otf") format("opentype");
+}
+
+.hidden {
+  display: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "_modelApiKey": "page_section",
+  "sectionContent": [
+    {
+      "id": "158761850",
+      "titleDecoration": "",
+      "titleSubtext": "CRAFTED BY SADHGURU",
+      "titleText": "LEADERSHIP PROGRAMS",
+      "_modelApiKey": "section_title",
+      "titleColor": ""
+    },
+    {
+      "id": "161546137",
+      "_modelApiKey": "ila_program_card",
+      "date": "23 NOV - 26 NOV 2023",
+      "description": {
+        "value": {
+          "schema": "dast",
+          "document": {
+            "type": "root",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "span",
+                    "value": "Enhance your ability to “see” and explore the science of scaling up your business through real-life case studies of iconic business leaders."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "desktopImage": {
+        "alt": null,
+        "id": "57574356",
+        "url": "https://www.datocms-assets.com/46272/1693467018-ratan-tata.svg"
+      },
+      "title": "Insight: The DNA of Success",
+      "link": [
+        {
+          "linkUrl": "leadership-academy/insight",
+          "buttonText": "Learn More",
+          "subtextDate": "",
+          "fieldId": ""
+        }
+      ],
+      "titleSubtext": "",
+      "tag": "Registration OPEN",
+      "style": "",
+      "mobileImage": null,
+      "logo": {
+        "alt": null,
+        "url": "https://www.datocms-assets.com/46272/1690439624-group-46.png"
+      }
+    },
+    {
+      "id": "161827055",
+      "_modelApiKey": "ila_program_card",
+      "date": "Coming Soon: JUNE 2024",
+      "description": {
+        "value": {
+          "schema": "dast",
+          "document": {
+            "type": "root",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "span",
+                    "value": "Explore practical steps to unleash the human potential in your organization by seeing human beings as Possibilities instead of mere resources"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "desktopImage": {
+        "alt": null,
+        "id": "57394689",
+        "url": "https://www.datocms-assets.com/46272/1693322432-hinar_exd.jpg"
+      },
+      "title": "Human Is NOT a Resource ",
+      "link": [
+        {
+          "linkUrl": "leadership-academy/human-is-not-a-resource",
+          "buttonText": "Learn More",
+          "subtextDate": "",
+          "fieldId": ""
+        }
+      ],
+      "titleSubtext": "",
+      "tag": "",
+      "style": "",
+      "mobileImage": null,
+      "logo": {
+        "alt": null,
+        "url": "https://www.datocms-assets.com/46272/1691734997-hinar-logo.png"
+      }
+    },
+    {
+      "id": "161827057",
+      "_modelApiKey": "ila_program_card",
+      "date": "14 DEC - 17 DEC 2023",
+      "description": {
+        "value": {
+          "schema": "dast",
+          "document": {
+            "type": "root",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "span",
+                    "value": "Embark on a transformative journey of crafting lasting success and a legacy beyond mere profitability."
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "desktopImage": {
+        "alt": null,
+        "id": "57394687",
+        "url": "https://www.datocms-assets.com/46272/1693322425-famex_exd.jpg"
+      },
+      "title": "Family Enterprise Excellence - Mapping the Future of Your Business",
+      "link": [
+        {
+          "linkUrl": "leadership-academy/family-enterprise-excellence",
+          "buttonText": "Learn More",
+          "subtextDate": "",
+          "fieldId": ""
+        }
+      ],
+      "titleSubtext": "",
+      "tag": "",
+      "style": "",
+      "mobileImage": null,
+      "logo": {
+        "alt": null,
+        "url": "https://www.datocms-assets.com/46272/1692255110-layer_2.png"
+      }
+    },
+    {
+      "id": "161546139",
+      "_modelApiKey": "ila_program_card",
+      "date": "19 JAN - 21 JAN 2024",
+      "description": {
+        "value": {
+          "schema": "dast",
+          "document": {
+            "type": "root",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "span",
+                    "value": "Expand your business by leveraging the power of purposeful branding from India’s finest brand strategists"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "desktopImage": {
+        "alt": null,
+        "id": "57394685",
+        "url": "https://www.datocms-assets.com/46272/1693322416-brand-insight_exd.jpg"
+      },
+      "title": "BRAND INSIGHT — Decoding Branding",
+      "link": [
+        {
+          "linkUrl": "leadership-academy/brand-insight",
+          "buttonText": "Learn More",
+          "subtextDate": "",
+          "fieldId": ""
+        }
+      ],
+      "titleSubtext": "",
+      "tag": "",
+      "style": "",
+      "mobileImage": null,
+      "logo": {
+        "alt": null,
+        "url": "https://www.datocms-assets.com/46272/1691735012-brandinsight.png"
+      }
+    }
+  ],
+  "sectionId": "leadership-programs",
+  "styleConfig": null
+}
