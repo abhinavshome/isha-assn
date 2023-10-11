@@ -2,6 +2,6 @@
 
 How to run
 
-cd isha-assn
-npm install
-npm run dev
+`cd isha-assn`
+`npm install`
+`npm run dev`
